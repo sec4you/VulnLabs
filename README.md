@@ -10,7 +10,7 @@
 
 ## Vulnerable Applications
 
-| Application| Port | Initial setup |Username | Password |
-| - | - | - |
-| Damn Vulnerable Web App  | 80 | http://localhost/setup.php | admin | password
+| Application| Port | Initial setup | Username | Password |
+|     -      |  -   |       -       |    -     |    -     |
+| Damn Vulnerable Web App  | 80 | http://localhost/setup.php | admin | password |
 | Java Vulnerable Lab | 8080 | http://localhost:8080/JavaVulnerableLab/install.jsp | defined on setup | defined on setup |
