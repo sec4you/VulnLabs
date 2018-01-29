@@ -10,7 +10,7 @@
 
 ## Vulnerable Applications
 
-| Application| Port | Initial setup |    Index     | Username | Password | Repo |
+| Application| Port | Setup |    Index     | Username | Password | Repo |
 |     -      |  -   |       -       |      -       |    -     |    -     |   -  |
 | Damn Vulnerable Web App  | 8080 | http://localhost:8080/setup.php | http://localhost:8080 | admin | password | https://github.com/ethicalhack3r/DVWA |
 | Damn Small Vulnerable Web | 8081 | no need | http://localhost:8081 | no need | no need | https://github.com/m4n3dw0lf/DSVW |
