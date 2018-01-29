@@ -2,7 +2,7 @@ javavulnlab:
   image: m4n3dw0lf/javavulnerablelab
   ports:
     - 8080:8080
-  links: 
+  links:
     - mysql
 
 dvwa:
@@ -11,6 +11,11 @@ dvwa:
     - 80:80
   links:
     - mysql
+
+dsvw:
+  image: m4n3dw0lf/dsvw
+  ports:
+    - 8081:8081
 
 mysql:
   image: mysql
