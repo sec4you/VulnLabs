@@ -4,9 +4,9 @@
 
 - Install [Docker](https://docs.docker.com/engine/installation/) and [docker-compose](https://docs.docker.com/compose/install/).
 
-- Run `git clone https://github.com/m4n3dw0lf/VulnLabs`
+- Run `$ git clone https://github.com/m4n3dw0lf/VulnLabs ; cd VulnLabs`
 
-- Run `$ docker-compose up` inside the cloned repository
+- Run `$ sudo docker-compose up`
 
 ## Vulnerable Applications
 
