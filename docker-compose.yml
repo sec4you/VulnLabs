@@ -1,0 +1,18 @@
+javavulnlab:
+  image: m4n3dw0lf/javavulnerablelab
+  ports:
+    - 8080:8080
+  links: 
+    - mysql
+
+dvwa:
+  image: m4n3dw0lf/docker-vulnerable-dvwa
+  ports:
+    - 80:80
+  links:
+    - mysql
+
+mysql:
+  image: mysql
+  environment:
+    - MYSQL_ROOT_PASSWORD=root
