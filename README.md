@@ -16,3 +16,4 @@
 | Damn Small Vulnerable Web | 8081 | no need | http://localhost:8081 | no need | no need | https://github.com/m4n3dw0lf/DSVW |
 | Web Goat | 8082 | no need | http://localhost:8082/WebGoat/ | in index page | in index page | https://github.com/WebGoat/WebGoat |
 | Java Vulnerable Lab | 8083 | http://localhost:8083/JavaVulnerableLab/install.jsp | http://localhost:8083/JavaVulnerableLab | defined on setup | defined on setup | https://github.com/CSPF-Founder/JavaVulnerableLab |
+| Hackazon | 8084 | http://localhost:8084/install | http://localhost:8084 | defined on setup | defined on setup | https://github.com/rapid7/hackazon |
